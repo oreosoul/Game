@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    margin-top: 180px;
+}
+#miner{
+    display: inline-block;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    margin: 0 auto;
+}
+ul{
+    overflow: hidden;
+}
+li{
+    display: block;
+    float: left;
+    width: 20px;
+    height: 20px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
